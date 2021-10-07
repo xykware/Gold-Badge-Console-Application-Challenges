@@ -1,4 +1,4 @@
-* Gold Badge Console Application Challenges
+# Gold Badge Console Application Challenges
 
-**To-Do:
+## To-Do:
 Finish projects 04 through 07
